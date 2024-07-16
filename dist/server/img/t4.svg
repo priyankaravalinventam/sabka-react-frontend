@@ -1,0 +1,26 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="600" fill="white"/>
+<rect x="177.5" y="96.5" width="452" height="139" rx="27.5" fill="white" stroke="#999999" stroke-dasharray="2 2"/>
+<path d="M396 166H410" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M403 159V173" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="177.5" y="256.5" width="139" height="139" rx="23.5" fill="white" stroke="#999999" stroke-dasharray="2 2"/>
+<path d="M240 326H254" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M247 319V333" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="177.5" y="416.5" width="139" height="139" rx="23.5" fill="white" stroke="#999999" stroke-dasharray="2 2"/>
+<path d="M240 486H254" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M247 479V493" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="333.5" y="258.5" width="139" height="139" rx="23.5" fill="white" stroke="#999999" stroke-dasharray="2 2"/>
+<path d="M396 328H410" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M403 321V335" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="490.5" y="258.5" width="139" height="139" rx="23.5" fill="white" stroke="#999999" stroke-dasharray="2 2"/>
+<path d="M553 328H567" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M560 321V335" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="333.5" y="416.5" width="139" height="139" rx="23.5" fill="white" stroke="#999999" stroke-dasharray="2 2"/>
+<path d="M396 486H410" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M403 479V493" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="490.5" y="416.5" width="139" height="139" rx="23.5" fill="white" stroke="#999999" stroke-dasharray="2 2"/>
+<path d="M553 486H567" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M560 479V493" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="170" y="39" width="84" height="37" rx="18.5" fill="#F5F5F5"/>
+<rect x="420" y="39" width="210" height="37" rx="18.5" fill="#F5F5F5"/>
+</svg>
